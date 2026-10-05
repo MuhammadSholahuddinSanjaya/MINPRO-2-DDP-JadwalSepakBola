@@ -196,3 +196,66 @@ tabel ASCII yang rapi (berkat library PrettyTable) berisi data awal J-01 dan J-0
 
 ---
 
+<img width="538" height="355" alt="image" src="https://github.com/user-attachments/assets/926a5268-1fc6-43c9-9442-468c046ddc7a" />
+
+<img width="767" height="410" alt="image" src="https://github.com/user-attachments/assets/ff3591e0-22aa-4407-ad2f-1488a0643bad" />
+
+Saat memilih menu 2, pengguna berhasil menambahkan data baru dengan ID "J-03" (Arsenal VS Madrid). 
+
+Ketika menu 1 diakses kembali, data J-03 tersebut terbukti sudah masuk ke dalam tabel.
+
+---
+
+<img width="795" height="550" alt="image" src="https://github.com/user-attachments/assets/3c37e984-befc-4b89-8d18-90142aa48db3" />
+
+<img width="840" height="442" alt="image" src="https://github.com/user-attachments/assets/ff5ca9c4-c94d-4020-be6d-76fc0b0398b2" />
+
+Melalui menu 3, program berhasil mencari data berdasarkan ID (J-01) dan memperbarui detail pertandingannya menjadi "Indonesia VS Jepang".
+
+Perubahan data ini langsung tersimpan dan tercermin secara real-time saat melihat daftar tabel jadwal.
+
+---
+
+<img width="880" height="521" alt="image" src="https://github.com/user-attachments/assets/9d0e659c-3dfb-4800-9c8b-88d044f0245a" />
+
+<img width="842" height="426" alt="image" src="https://github.com/user-attachments/assets/1698c30c-da53-46c2-a29d-0fd172abcb1b" />
+
+Pada menu 4, program mendemonstrasikan proses penghapusan data secara spesifik (J-03) 
+
+yang dilengkapi dengan konfirmasi keamanan (y/n) sebelum data benar-benar dihapus dari dictionary.
+
+---
+
+<img width="485" height="255" alt="image" src="https://github.com/user-attachments/assets/229b72cc-2dfd-40b5-b5d0-8389d5a846e4" />
+
+Admin memilih menu 0 untuk keluar, dan program merespons dengan pesan terima kasih lalu kembali ke layar utama.
+
+---
+
+<img width="373" height="181" alt="image" src="https://github.com/user-attachments/assets/e2f54a15-a0dc-484c-8b6f-9ede67b418a2" />
+
+Program kembali ke halaman login, dan kali ini pengguna masuk menggunakan kredensial akun "fans".
+
+---
+
+<img width="328" height="137" alt="image" src="https://github.com/user-attachments/assets/ed6ac12c-7640-4acb-8fd2-9e871269f813" />
+
+sistem role berfungsi. Saat masuk sebagai "fans", 
+
+Menu Utama yang ditampilkan hanya opsi 1 (Tampilkan Jadwal) dan 0 (Keluar). 
+
+Opsi untuk menambah, mengubah, dan menghapus jadwal (opsi 2, 3, dan 4) disembunyikan secara otomatis.
+
+---
+
+<img width="845" height="340" alt="image" src="https://github.com/user-attachments/assets/a2662526-132b-4501-aa55-7ef96eea4498" />
+
+aat akun "fans" memilih menu 1, program berhasil menampilkan daftar jadwal pertandingan yang sama secara rapi.
+
+---
+
+<img width="421" height="185" alt="image" src="https://github.com/user-attachments/assets/009a6aa7-62c4-4a52-9e5f-16802d756847" />
+
+Akun "fans" dapat melakukan logout dengan memilih menu 0, dan sistem merespons dengan pesan keluar yang sama.
+
+---
