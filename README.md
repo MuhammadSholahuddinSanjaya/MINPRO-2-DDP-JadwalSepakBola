@@ -218,7 +218,7 @@ Ketika menu 1 diakses kembali, data J-03 tersebut terbukti sudah masuk ke dalam 
 
 Melalui menu 3, program berhasil mencari data berdasarkan ID (J-01) dan memperbarui detail pertandingannya menjadi "Indonesia VS Jepang".
 
-Perubahan data ini langsung tersimpan dan tercermin secara real-time saat melihat daftar tabel jadwal.
+Perubahan data ini langsung tersimpan secara real-time saat melihat daftar tabel jadwal.
 
 ---
 
