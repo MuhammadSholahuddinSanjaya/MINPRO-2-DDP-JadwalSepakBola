@@ -256,7 +256,7 @@ Opsi untuk menambah, mengubah, dan menghapus jadwal (opsi 2, 3, dan 4) disembuny
 
 <img width="845" height="340" alt="image" src="https://github.com/user-attachments/assets/a2662526-132b-4501-aa55-7ef96eea4498" />
 
-aat akun "fans" memilih menu 1, program berhasil menampilkan daftar jadwal pertandingan yang sama secara rapi.
+saat akun "fans" memilih menu 1, program berhasil menampilkan daftar jadwal pertandingan yang sama secara rapi.
 
 ---
 
