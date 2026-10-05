@@ -165,3 +165,34 @@ fasilitas menu apa saja yang boleh diakses oleh orang yang sedang login saat itu
 ---
 
 ### Output Program
+
+<img width="510" height="202" alt="image" src="https://github.com/user-attachments/assets/759ac1fa-0209-4b0c-b9eb-6beeae584922" />
+
+<img width="387" height="175" alt="image" src="https://github.com/user-attachments/assets/6cebd97c-c6b4-4c20-aa4d-b0a82cf7ffbf" />
+
+#### ADMIN
+
+<img width="372" height="152" alt="image" src="https://github.com/user-attachments/assets/c63cde07-ff28-4a3f-b098-9bc01dc98a90" />
+
+#### FANS
+
+Program dapat mendeteksi kredensial yang tidak valid, contohnya saat diinput username "jay" program akan menolak akses dan meminta pengguna mencoba lagi.
+
+Sebaliknya, login akan berhasil jika menggunakan akun yang terdaftar pada dictionary, seperti akun "admin" atau akun "fans"
+
+---
+
+<img width="357" height="205" alt="image" src="https://github.com/user-attachments/assets/fa782f1f-fd0b-4f89-84ef-5a5fc846f965" />
+
+Setelah login, program menampilkan antarmuka Menu Utama dengan pilihan 1 hingga 4 dan 0 untuk keluar.
+
+---
+
+<img width="765" height="437" alt="image" src="https://github.com/user-attachments/assets/186a991b-139c-4a6e-ba98-6ad5e16ef04c" />
+
+Saat memilih menu 1, program berhasil menampilkan dictionary jadwal pertandingan ke dalam bentuk 
+
+tabel ASCII yang rapi (berkat library PrettyTable) berisi data awal J-01 dan J-02.
+
+---
+
